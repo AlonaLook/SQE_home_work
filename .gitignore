@@ -1,0 +1,7 @@
+# This is the list of files that will be untracked by GIT
+*.log
+*.db
+
+# ignore ALL files in ANY directory named target and bin
+target/
+bin/
